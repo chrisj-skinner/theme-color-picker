@@ -1,0 +1,37 @@
+/* line 6, ../sass/screen.scss */
+h1 {
+  border-bottom: 4px solid;
+}
+
+/* line 9, ../sass/screen.scss */
+.template-1 .navbar-inverse {
+  background-color: #4F596C;
+  border-color: #4F596C;
+}
+/* line 13, ../sass/screen.scss */
+.template-1 h1 {
+  color: #4F596C;
+  border-bottom-color: #4F596C;
+}
+
+/* line 20, ../sass/screen.scss */
+.template-2 .navbar-inverse {
+  background-color: #4E4F42;
+  border-color: #4E4F42;
+}
+/* line 24, ../sass/screen.scss */
+.template-2 h1 {
+  color: #4E4F42;
+  border-bottom-color: #4E4F42;
+}
+
+/* line 31, ../sass/screen.scss */
+.template-3 .navbar-inverse {
+  background-color: #339670;
+  border-color: #339670;
+}
+/* line 35, ../sass/screen.scss */
+.template-3 h1 {
+  color: #339670;
+  border-bottom-color: #339670;
+}
