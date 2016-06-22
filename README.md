@@ -3,6 +3,6 @@ A pop out color picker that changes a set of colors based on mutiple theme color
 
 On navigating through the sites pages, local Storage is checked for a value and if present applied to the body tag. This allows the color scheme to be preserved throughout the site while still allowing the color scheme to be changed at any point. 
 
-Developing in PLUNKER
+Developing in [PLUNKER]
 
 [PLUNKER]: <http://plnkr.co/edit/FcUDmZ?p=preview>
